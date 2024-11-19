@@ -30,3 +30,4 @@ dataset/waves/
 dataset/tracklets/
 dataset/third_party/
 dataset/aligned_tracklets/
+openmpi-1.10.7

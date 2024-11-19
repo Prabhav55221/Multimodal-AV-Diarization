@@ -20,5 +20,7 @@ def download_annotations():
 
 if __name__ == '__main__':
     os.makedirs('dataset/videos', exist_ok=True)
-    download_videos('dataset/videos')
+    # download_videos('dataset/videos')
     download_annotations()
+
+    # https://drive.google.com/uc?id=18kjJJbebBg7e8umI6HoGE4_tI3OWufzA

@@ -4,7 +4,7 @@ includes:
 
 model_config:
   token:
-    base_ckpt_path: 'save/token/best_0.14_20.66.ckpt' # the initial parameters
+    base_ckpt_path: '/export/fs06/psingh54/AVA-AVD/model/save/best_0.14_20.66.ckpt' # the initial parameters
     base_ckpt_load_backbone_only: false
 
 evaluation:
